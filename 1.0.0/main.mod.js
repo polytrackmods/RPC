@@ -1,4 +1,4 @@
-import { PolyMod, MixinType } from "https://pml.ccrjakob.com/PolyTrackMods/PolyModLoader/0.5.2/PolyModLoader.js";
+import { PolyMod, MixinType } from "https://pml.crjakob.com/cb/PolyTrackMods/PolyModLoader/0.5.2/PolyModLoader.js";
 
 class RPC extends PolyMod {
     init = (pml) => {
