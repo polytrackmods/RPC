@@ -10,7 +10,7 @@ class RPC extends PolyMod {
             };
             document.head.appendChild(script);
     `);
-    }} 
+    };
 }
 
 
