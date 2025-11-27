@@ -1,6 +1,6 @@
-import { PolyMod, MixinType } from "https://pml.ccrjakob.com/PolyTrackMods/PolyModLoader/0.5.1/PolyModLoader.js";
+import { PolyMod, MixinType } from "https://pml.ccrjakob.com/PolyTrackMods/PolyModLoader/0.5.2/PolyModLoader.js";
 
-class YourMod extends PolyMod {
+class RPC extends PolyMod {
     init = (pml) => {
         // regular init
     }
@@ -13,4 +13,4 @@ class YourMod extends PolyMod {
 }
 
 
-export let polyMod = new YourMod();
+export let polyMod = new RPC();
